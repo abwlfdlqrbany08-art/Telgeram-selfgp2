@@ -4,6 +4,3 @@ This robot is made for beginner users who don't have a computer or laptop, they 
 ![GitHub Contribution Snake Animation](contrib.svg)
 
 
-<div align="center">
-  <img src=".github/assets/evix-hacker.svg" alt="EVIX Hacker Style"/>
-</div>
